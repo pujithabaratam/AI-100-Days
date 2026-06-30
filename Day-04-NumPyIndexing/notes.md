@@ -146,10 +146,13 @@ Salary > ₹50,000
 
 You'll write code similar to:
 
-```filtered = customers[
+```python 
+filtered = customers[
     (customers[:, 1] > 50000) &
     (customers[:, 2] > 21)
-]```
+]
+```
+---
 
 This kind of filtering is done before feeding data into machine learning models.
 
