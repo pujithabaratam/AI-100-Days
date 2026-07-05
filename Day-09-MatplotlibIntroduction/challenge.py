@@ -8,18 +8,18 @@ students=pd.DataFrame({
 
 
 import matplotlib.pyplot as plt
-# plt.bar(students["Name"],students["Marks"])
-# plt.xlabel("Names")
-# plt.ylabel("Marks")
-# plt.title("Bar Chart of Student Marks")
-# plt.show()
+plt.bar(students["Name"],students["Marks"])
+plt.xlabel("Names")
+plt.ylabel("Marks")
+plt.title("Bar Chart of Student Marks")
+plt.show()
 
-# plt.hist(students["Marks"],bins=5)
-# plt.show()
+plt.hist(students["Marks"],bins=5)
+plt.show()
 
 
-# count=students["City"].value_counts()
-# plt.pie(count.values,labels=count.index,autopct="%1.1f%%")
-# plt.title("Pie Chart showing students by city")
-# plt.show()
+count=students["City"].value_counts()
+plt.pie(count.values,labels=count.index,autopct="%1.1f%%")
+plt.title("Pie Chart showing students by city")
+plt.show()
 
