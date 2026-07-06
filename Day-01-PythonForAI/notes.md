@@ -18,7 +18,7 @@ Python
 ├── Hugging Face → LLM Models
 ├── LangChain    → Build AI Apps
 ├── ChromaDB     → Vector Database
-└── FastAPI      → Deploy AI Modelscd
+└── FastAPI      → Deploy AI Models
 
 ### Dictionary
 
