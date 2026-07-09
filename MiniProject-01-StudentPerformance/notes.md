@@ -76,3 +76,20 @@ idxmax() returns the index (city name) corresponding to the maximum value.
         .idxmax()
     )
 ```
+
+# Why Generate Reports?
+
+Imagine you're a Data Analyst.
+
+Your manager doesn't want to read hundreds of rows of data.
+
+Instead, they want answers like:
+
+Who is the topper?
+Which subject has the highest average?
+Which city performs the best?
+What is the average attendance?
+
+A report summarizes these insights.
+
+Reports are usually saved we need to our report to some text file.

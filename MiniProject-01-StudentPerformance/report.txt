@@ -1,0 +1,74 @@
+==================================================
+          STUDENT PERFORMANCE REPORT
+==================================================
+
+Total Students           : 10
+Overall Average Marks    : 82.53
+Average Attendance       : 90.80
+
+--------------------------------------------------
+Top Performer
+--------------------------------------------------
+Name                     : Rohit
+Average Marks            : 94.67
+
+--------------------------------------------------
+Lowest Performer
+--------------------------------------------------
+Name                     : David
+Average Marks            : 66.67
+
+--------------------------------------------------
+Best Performing City
+--------------------------------------------------
+Delhi
+
+--------------------------------------------------
+Best Subject
+--------------------------------------------------
+Science
+
+--------------------------------------------------
+Attendance Statistics
+--------------------------------------------------
+Highest Attendance       : 98
+Lowest Attendance        : 81
+Average Attendance       : 90.80
+
+--------------------------------------------------
+Students by City
+--------------------------------------------------
+Hyderabad                : 4
+Vizag                    : 3
+Delhi                    : 3
+
+--------------------------------------------------
+Performance Summary
+--------------------------------------------------
+Good                     : 5
+Excellent                : 2
+Average                  : 2
+Need Improvement         : 1
+
+--------------------------------------------------
+Students Below Average Attendance
+--------------------------------------------------
+John                     : 88
+David                    : 81
+Priya                    : 90
+Kiran                    : 85
+Arjun                    : 89
+
+--------------------------------------------------
+Key Insights
+--------------------------------------------------
+• Rohit is the top performer.
+• David needs improvement.
+• Delhi has the highest average marks.
+• Science is the highest scoring subject.
+• Average attendance is 90.80%.
+• Most students belong to the 'Good' category.
+
+==================================================
+               END OF REPORT
+==================================================
