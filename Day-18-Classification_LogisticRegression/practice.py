@@ -58,3 +58,5 @@ print("Weights:",model.coef_)
 print(model.coef_[0])
 print("Bias:",model.intercept_)
 
+
+
